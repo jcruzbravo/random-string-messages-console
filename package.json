@@ -1,0 +1,24 @@
+{
+  "name": "random-string-messages-console",
+  "version": "1.0.0",
+  "description": "Random messages on the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcruzbravo/random-string-messages-console.git"
+  },
+  "keywords": [],
+  "author": "Joaquin Cruz Bravo <jcruzbravo2000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcruzbravo/random-string-messages-console/issues"
+  },
+  "homepage": "https://github.com/jcruzbravo/random-string-messages-console#readme",
+  "bin": {
+    "random-string-messages-console": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
